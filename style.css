@@ -1,0 +1,32 @@
+td, th {
+  border: 1px black;
+  padding: 2px;
+  text-align: center;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th {
+  background-color: yellow;
+}
+
+td {
+  background-color: lightgray;
+  font-size: 18px;
+}
+
+#First {
+  font-size: 36px;
+  color: red;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+/*# sourceMappingURL=style.css.map */
